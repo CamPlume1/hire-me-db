@@ -10,3 +10,4 @@ Databento Team, You should hire me as an intern
   - paper trading over historical data?
       - (This would not include any market reactions to user action)
    
+## Project Directory
